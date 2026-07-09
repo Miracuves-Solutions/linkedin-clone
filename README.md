@@ -1,11 +1,11 @@
 # Linkedin Clone — White-Label Social Network & Microblogging Platform by Miracuves
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Try_Now-e8344f?style=for-the-badge)](https://mxlinkedin.mimeld.com)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Try_Now-e8344f?style=for-the-badge)](https://mxlinkin.mimeld.com)
 [![Website](https://img.shields.io/badge/Solution_Page-miracuves.com-0b0b10?style=for-the-badge)](https://miracuves.com/linkedin-clone/)
 [![Delivery](https://img.shields.io/badge/Go_Live-6_Working_Days-2ecc8f?style=for-the-badge)](https://miracuves.com/linkedin-clone/#pricing)
 [![Support](https://img.shields.io/badge/Support-60_Days_+_12mo_Updates-blue?style=for-the-badge)](https://miracuves.com/facts/)
 
-**MXLinkedin** is a production-ready, white-label Linkedin clone: a complete social network with feeds, threads, DMs, and creator monetization — delivered with **100% source code ownership** in **6 working days**.
+**MXLinkin** is a production-ready, white-label Linkedin clone: a complete social network with feeds, threads, DMs, and creator monetization — delivered with **100% source code ownership** in **6 working days**.
 
 > 🐦 **See it running before you talk to anyone.** Live iOS, Android, web, and admin console — demo credentials are printed on the [solution page](https://miracuves.com/linkedin-clone#demo). No sales call required.
 
@@ -16,7 +16,7 @@
 | Environment | URL | What you can test |
 |---|---|---|
 | 📱 Mobile App | [mas.mimeld.com](https://mas.mimeld.com) | Post, like, reply, repost, follow, DM |
-| 🌐 Web Platform | [mxlinkedin.mimeld.com](https://mxlinkedin.mimeld.com) | Full social experience in the browser |
+| 🌐 Web Platform | [mxlinkin.mimeld.com](https://mxlinkin.mimeld.com) | Full social experience in the browser |
 | 🛡️ Moderation Console | [Solution page → Demo](https://miracuves.com/linkedin-clone#demo) | User reports, content takedowns, ad reviews |
 | 🛠️ Admin Dashboard | [Solution page → Demo](https://miracuves.com/linkedin-clone#demo) | Users, content, ads, analytics, payouts |
 
@@ -106,9 +106,9 @@ This repository is a product overview. The full source code is delivered to clie
 TEMPLATE VARIABLE KEY — auto-generated from Netflix-Clone pattern
 ══════════════════════════════════════════════════
 {APP_NAME}        Linkedin Clone
-{MX_NAME}         MXLinkedin
+{MX_NAME}         MXLinkin
 {CATEGORY}        Social Network & Microblogging Platform
-{DEMO_WEB}        mxlinkedin.mimeld.com
+{DEMO_WEB}        mxlinkin.mimeld.com
 {PRICE}           $6,699
 {SLUG}            linkedin-clone
 {SOLUTION_URL}    https://miracuves.com/linkedin-clone/
